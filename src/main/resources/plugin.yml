@@ -1,0 +1,14 @@
+name: BedWars1vs1
+version: '${project.version}'
+main: de.neltopia.bedwars1vs1.BedWars1vs1
+api-version: 1.19
+depend: [ WarpSystem ]
+authors: [ SimonDE2107 ]
+description: A 1vs1 BedWars System
+
+commands:
+  addspawner:
+  setloc:
+  setteam:
+  setupmode:
+  start:
